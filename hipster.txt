@@ -1,1 +1,3 @@
 Random hipster text
+Next line
+This is some more text
