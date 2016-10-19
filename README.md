@@ -25,4 +25,4 @@ More info
 
 ## Copywright
 
-Copywright
+Copywright all rights
